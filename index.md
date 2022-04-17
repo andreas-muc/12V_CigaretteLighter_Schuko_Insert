@@ -20,10 +20,11 @@ https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert
 
 3. 3D print the insert
 
-5. https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/3DModel.png
+https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/3DModel.png
 
 
 4. Glue in the insert
+
 https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step4a.jpg
 https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step4b.jpg
 
