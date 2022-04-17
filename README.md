@@ -7,5 +7,5 @@ This is a 3D model of an insert that allows to install a 12V Car Cigaretter Ligh
 12V_Car_CigratteLighter_Schuko_Socket_Insert.stl -> 3D Object
 12V_Car_CigratteLighter_Schuko_Socket_Insert.pdf -> PDF Drawing
 
-See https://andreas-muc.github.io/12V_CigaretteLighter_Schuko_Insert/
+See https://andreas-muc.github.io/12V_CigaretteLighter_Schuko_Insert/ for build instructions
 
