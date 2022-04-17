@@ -30,12 +30,12 @@ https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert
 5. Glue in the 12V Car Cigarette Socket
 
 https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step5a.jpg
-https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step5bjpg
+https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step5b.jpg
 
 6. Bend terminal contacts (if necessary) and install cables
 
 https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step6a.jpg
-https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step6n.jpg
+https://raw.githubusercontent.com/andreas-muc/12V_CigaretteLighter_Schuko_Insert/main/photos/Step6b.jpg
 
 
 7. Install
